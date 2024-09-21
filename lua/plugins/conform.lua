@@ -6,7 +6,7 @@ return {
 			javascriptreact = { 'prettierd' },
 			typescript = { 'prettierd' },
 			typescriptreact = { 'prettierd' },
-			python = { 'black' },
+			python = { 'blackd-client', 'black' },
 			c = { 'clang-format' },
 			cpp = { 'clang-format' }
 		},
