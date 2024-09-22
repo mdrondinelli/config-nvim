@@ -1,6 +1,6 @@
 vim.opt.guicursor =
-  'n-v-c:block,i-ci-ve:ver25,r-cr:hor20,o:hor50,'..
-  'a:blinkwait700-blinkoff400-blinkon250,sm:block-blinkwait175-blinkoff150-blinkon175'
+    'n-v-c:block,i-ci-ve:ver25,r-cr:hor20,o:hor50,' ..
+    'a:blinkwait700-blinkoff400-blinkon250,sm:block-blinkwait175-blinkoff150-blinkon175'
 
 vim.opt.nu = true
 vim.opt.relativenumber = true
@@ -32,5 +32,5 @@ vim.opt.colorcolumn = "120"
 
 vim.g.mapleader = " "
 
-vim.g.loaded_netrw = 1
-vim.g.loaded_netrwPlugin = 1
+-- vim.g.loaded_netrw = 1
+-- vim.g.loaded_netrwPlugin = 1
